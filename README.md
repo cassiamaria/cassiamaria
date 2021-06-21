@@ -10,4 +10,4 @@ Decidida a dar um grande passo em minha carreira, estou participando do Bootcamp
 ### 📫 Contato:
 - [Linkedin](https://www.linkedin.com/in/cassia-maria/)
 
-- [E-mail](cassiamariaassis@gmail.com)
+- E-mail: cassiamariaassis@gmail.com
