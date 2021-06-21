@@ -8,6 +8,6 @@ Decidida a dar um grande passo em minha carreira, estou participando do Bootcamp
 - 😄 Tecnologias que estou familiarizada: HTML5, CSS3/SASS, JavaScript, Bootstrap, Git.
 
 ### 📫 Contato:
-[Linkedin](https://www.linkedin.com/in/cassia-maria/)
+- [Linkedin](https://www.linkedin.com/in/cassia-maria/)
 
-[E-mail](cassiamariaassis@gmail.com)
+- [E-mail](cassiamariaassis@gmail.com)
