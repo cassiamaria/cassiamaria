@@ -4,7 +4,7 @@ Sou estudante de Engenharia da Computação, desenvolvedora em formação e apai
 
 Decidida a dar um grande passo em minha carreira, estou participando do Bootcamp Ignite da Rocketseat com a tecnologia ReactJS. 
 
-- 🌱 Estou aprendendo: JavaScript (ES6), ReactJS, TypeScript.
+- 🌱 Estou aprendendo: JavaScript (ES6+), ReactJS, TypeScript.
 - 😄 Tecnologias que estou familiarizada: HTML5, CSS3/SASS, JavaScript, Bootstrap, Git.
 
 ### 📫 Contato:
